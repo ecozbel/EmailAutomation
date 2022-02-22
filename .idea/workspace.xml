@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13f36214-d45d-432e-964b-124cde3620a1" name="Default Changelist" comment="" />
+    <list default="true" id="13f36214-d45d-432e-964b-124cde3620a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Automated mail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EmailList.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IIFF Haziran.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/v2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +23,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1qZD8KojsVCuhtErwvztfL2vv3P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -105,7 +119,7 @@
       <updated>1617278058320</updated>
       <workItem from="1617278069210" duration="21158000" />
       <workItem from="1620161416173" duration="17000" />
-      <workItem from="1645496548086" duration="889000" />
+      <workItem from="1645496548086" duration="1394000" />
     </task>
     <servers />
   </component>
@@ -117,10 +131,10 @@
       <screen x="0" y="23" width="1280" height="734" />
     </state>
     <state x="381" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.23.1280.734@0.23.1280.734" timestamp="1645549907453" />
-    <state x="378" y="144" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1645549774104">
+    <state x="378" y="144" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1645550229515">
       <screen x="0" y="23" width="1280" height="734" />
     </state>
-    <state x="378" y="144" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.734@0.23.1280.734" timestamp="1645549774104" />
+    <state x="378" y="144" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.734@0.23.1280.734" timestamp="1645550229515" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1645549733238">
       <screen x="0" y="23" width="1280" height="734" />
     </state>
@@ -141,11 +155,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" log-message="true" suspend="NONE" type="python-line">
-          <url>file://$PROJECT_DIR$/v2.py</url>
-          <line>41</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/v2.py</url>
           <line>25</line>
