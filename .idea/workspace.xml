@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13f36214-d45d-432e-964b-124cde3620a1" name="Default Changelist" comment="" />
+    <list default="true" id="13f36214-d45d-432e-964b-124cde3620a1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -38,6 +41,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -114,12 +120,16 @@
       <updated>1617278058320</updated>
       <workItem from="1617278069210" duration="21158000" />
       <workItem from="1620161416173" duration="17000" />
-      <workItem from="1645496548086" duration="1548000" />
+      <workItem from="1645496548086" duration="2583000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fianl version" />
+    <option name="LAST_COMMIT_MESSAGE" value="fianl version" />
   </component>
   <component name="WindowStateProjectService">
     <state x="381" y="233" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1645549907453">
@@ -150,6 +160,10 @@
       <screen x="0" y="23" width="1280" height="734" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.734@0.23.1280.734" timestamp="1645549733238" />
+    <state x="423" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1645551480469">
+      <screen x="0" y="23" width="1280" height="734" />
+    </state>
+    <state x="423" y="314" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.734@0.23.1280.734" timestamp="1645551480469" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
