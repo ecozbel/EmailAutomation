@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13f36214-d45d-432e-964b-124cde3620a1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/email_automator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +45,11 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.v2">
+  <component name="RunManager" selected="Python.email_automator">
     <configuration name="IIFF_Haziran.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled5/IIFF_Haziran.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -77,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="email_automator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="untitled5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +91,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/email_automator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.v2" />
+        <item itemvalue="Python.email_automator" />
         <item itemvalue="JavaScript Debug.IIFF_Haziran.html (1)" />
         <item itemvalue="JavaScript Debug.IIFF_Haziran.html" />
         <item itemvalue="Python.Automated mail" />
@@ -120,8 +121,16 @@
       <updated>1617278058320</updated>
       <workItem from="1617278069210" duration="21158000" />
       <workItem from="1620161416173" duration="17000" />
-      <workItem from="1645496548086" duration="2583000" />
+      <workItem from="1645496548086" duration="2815000" />
     </task>
+    <task id="LOCAL-00001" summary="fianl version">
+      <created>1645552089553</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645552089553</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,7 +178,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/v2.py</url>
+          <url>file://$PROJECT_DIR$/src/email_automator.py</url>
           <line>25</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
